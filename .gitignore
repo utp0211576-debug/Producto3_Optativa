@@ -1,0 +1,14 @@
+# Entornos virtuales y caché de Python
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+*\$py.class
+
+# Variables de entorno y credenciales privadas (NUNCA subir a GitHub)
+.env
+
+# Configuración local de editores
+.vscode/
+.idea/
